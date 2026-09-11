@@ -1,0 +1,6 @@
+{
+  "name": "Murdoku Virtual",
+  "description": "Arquitectura Hexagonal (Ports & Adapters), DDD y Patrones de Diseño SOLID para el juego de deducción Murdoku.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
